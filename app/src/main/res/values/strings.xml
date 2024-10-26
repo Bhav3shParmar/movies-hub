@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Hub</string>
+    <string name="search_movies">Search movies, series or person</string>
+    <string name="enter_movie_name">Enter movie name</string>
+    <string name="genre">Genre</string>
+    <string name="production_house">Production house :</string>
+    <string name="movie_plot">Movie Plot :</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_list">Movie List</string>
+    <string name="people_list">People List</string>
+    <string name="top_billed_cast">Top Billed Cast</string>
+    <string name="series_cast">Series Cast</string>
+</resources>

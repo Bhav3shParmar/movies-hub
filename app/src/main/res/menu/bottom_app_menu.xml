@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/movieId"
+        android:title="@string/movie_list"
+        android:icon="@drawable/movie_icon"/>
+    <item
+        android:id="@+id/peopleID"
+        android:title="@string/people_list"
+        android:icon="@drawable/round_people_24"/>
+</menu>
